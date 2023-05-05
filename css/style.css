@@ -21,7 +21,7 @@ header {
   color: #f2e9e4;
   min-height: 100vh;
   display: flex;
-  background-image: url('C:/Users/asfan/OneDrive/Documents/GitHub/Asfandiyar-K.github.io-/Asfandiyar-K.github.io-/Asfandiyar-K.github.io-/asfandiyar1.github.io/images/background.png');
+  background-image: url(/images/background.png);
   background-size: cover;
   background-position: center center;
 }
